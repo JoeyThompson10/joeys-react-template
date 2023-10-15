@@ -5,7 +5,7 @@ function AboutPage() {
   return (
     <div className="about-page">
       <h1>About This App</h1>
-      <p>This application is a minimalistic template designed to help kickstart your next React project. It incorporates basic yet essential features such as routing, navigation, and tabs to demonstrate a typical app structure.</p>
+      <p>This application is a minimalistic template designed to help kickstart your next React project with Vite. It incorporates basic yet essential features such as routing, navigation, and tabs to demonstrate a typical app structure.</p>
       <h2>Packages Used</h2>
       <ul>
         <li><strong>react-router-dom:</strong> Enables the routing functionalities within the application, allowing for seamless navigation between different components/pages.</li>
